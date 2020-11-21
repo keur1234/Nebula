@@ -1,0 +1,11 @@
+resource [DONE]
+globe [DONE]
+main [DONE]
+menu [DONE]
+loading [polishing]
+ingame [/ PLAYER / ENEMY / STAGE]
+pausegame [polishing]
+
+0 - 104 L overlay
+517 - 640 R overlay
+640 * 25 Loading dash
